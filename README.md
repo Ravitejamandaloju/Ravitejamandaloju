@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com//in/sumankumar-sandiri-37a5ba285">
+  <a href="https://www.linkedin.com/in/raviteja-mandaloju-36b919254">
     <img src="https://shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a/>
 </p>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raviteja Mandaloju
-==========================================================================================================================================
+Hi ! My name is Raviteja Mandaloju
+==========================================================================================
 
 Web Developer
 -------------
